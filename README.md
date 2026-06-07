@@ -6,7 +6,7 @@
 <!-- 头像与简介 -->
 <div align="center">
   <img src="https://github.com/DisaWdcba.png" width="150" style="border-radius: 50%;" alt="DisaWdcba" />
-  <h3>✨ 非男娘 | 开发者 | 安全爱好者 ✨</h3>
+  <h3>✨ 非男娘 | Reverse Lover | Penetration Lover ✨</h3>
   <p>
     <img src="https://komarev.com/ghpvc/?username=DisaWdcba&color=00D9FF&style=flat" alt="Profile views" />
   </p>
@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-- 🔭 正在探索 **AIGC / 安全工具 / 异步爬虫**
+- 🔭 正在探索 **AIGC / 安全边界 / OPSEC**
 - 🌱 热爱 **Python / JavaScript / YARA**
 - 💬 欢迎交流技术问题
 - 🎮 卡饭论坛: [space-uid-1307239](https://bbs.kafan.cn/space-uid-1307239.html)
