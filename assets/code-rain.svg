@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1000 260" style="max-width: 1000px;">
+  <rect width="1000" height="260" fill="#020403"/>
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#39FF14" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#39FF14" stop-opacity=".95"/>
+      <stop offset="100%" stop-color="#39FF14" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g font-family="Fira Code, Consolas, monospace" font-size="18" fill="url(#fade)" filter="url(#glow)" opacity=".9">
+    <text x="40" y="-260" writing-mode="tb">010110101101001<animate attributeName="y" values="-260;300" dur="5.2s" begin="-1s" repeatCount="indefinite"/></text>
+    <text x="100" y="-260" writing-mode="tb">101001011010110<animate attributeName="y" values="-260;300" dur="6.4s" begin="-2s" repeatCount="indefinite"/></text>
+    <text x="165" y="-260" writing-mode="tb">rootx00ffsyslog<animate attributeName="y" values="-260;300" dur="5.8s" begin="-3s" repeatCount="indefinite"/></text>
+    <text x="240" y="-260" writing-mode="tb">011011001101010<animate attributeName="y" values="-260;300" dur="7s" begin="-1.6s" repeatCount="indefinite"/></text>
+    <text x="330" y="-260" writing-mode="tb">AIGCOPSECYARA<animate attributeName="y" values="-260;300" dur="6.1s" begin="-2.8s" repeatCount="indefinite"/></text>
+    <text x="710" y="-260" writing-mode="tb">reverse010110<animate attributeName="y" values="-260;300" dur="5.6s" begin="-1.2s" repeatCount="indefinite"/></text>
+    <text x="800" y="-260" writing-mode="tb">101101001011<animate attributeName="y" values="-260;300" dur="6.8s" begin="-2.4s" repeatCount="indefinite"/></text>
+    <text x="910" y="-260" writing-mode="tb">accessgranted<animate attributeName="y" values="-260;300" dur="5.9s" begin="-3.1s" repeatCount="indefinite"/></text>
+  </g>
+  <rect x="260" y="82" width="480" height="92" rx="14" fill="#020403" fill-opacity=".78" stroke="#39FF14" stroke-opacity=".5"/>
+  <text x="500" y="122" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="28" font-weight="700" fill="#39FF14" filter="url(#glow)">Disa Tale</text>
+  <text x="500" y="150" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="15" fill="#B6FFB6">root@github:~# access_granted</text>
+</svg>
