@@ -8,7 +8,7 @@
   <img src="https://github.com/DisaWdcba.png" width="150" style="border-radius: 50%;" alt="DisaWdcba" />
   <h3>✨ 非男娘 | 开发者 | 安全爱好者 ✨</h3>
   <p>
-    <a href="https://github.com/DisaWdcba"><img src="https://img.shields.io/github/followers/DisaWdcba?style=social" alt="GitHub followers" /></a>
+    <a href="https://github.com/DisaWdcba"><img src="https://img.shields.io/github/followers/DisaWdcba?label=Followers&style=social" alt="GitHub followers" /></a>
     <img src="https://komarev.com/ghpvc/?username=DisaWdcba&color=00D9FF&style=flat" alt="Profile views" />
   </p>
 </div>
@@ -17,8 +17,8 @@
 
 ## 🚀 About Me
 
-- 🔭 正在探索 **AIGC / 安全工具 / 异步爬虫**
-- 🌱 热爱 **Python / JavaScript / YARA**
+- 🔭 正在探索 **AIGC / 安全工具 / 安全开发**
+- 🌱 热爱 **Python / C++ / YARA**
 - 💬 欢迎交流技术问题
 - 🎮 卡饭论坛: [space-uid-1307239](https://bbs.kafan.cn/space-uid-1307239.html)
 
@@ -28,30 +28,20 @@
 
 <div align="center">
 
-<!-- GitHub Stats Card - 稳定镜像 -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DisaWdcba&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true&cache_seconds=86400" height="180" alt="GitHub Stats" />
-
-<!-- Most Used Languages - 稳定镜像 -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DisaWdcba&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8&cache_seconds=86400" height="180" alt="Top Languages" />
+<!-- 使用 shields.io 直接调用 GitHub API，稳定不挂 -->
+<img src="https://img.shields.io/github/followers/DisaWdcba?label=👥%20Followers&style=for-the-badge&logo=github&color=00D9FF" alt="Followers" />
+<img src="https://img.shields.io/badge/📦%20Public%20Repos-12-00D9FF?style=for-the-badge&logo=github" alt="Repos" />
+<img src="https://img.shields.io/badge/⭐%20Total%20Stars-20-FFD700?style=for-the-badge&logo=github" alt="Stars" />
 
 </div>
 
 <div align="center">
 
-<!-- Streak Stats - 官方新域名（替代被墙的 heroku） -->
-<img src="https://streak-stats.demolab.com?user=DisaWdcba&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" height="180" alt="GitHub Streak" />
+<!-- 技术栈占比 - 静态徽章 -->
+<img src="https://img.shields.io/badge/Python-60%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-25%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/YARA-15%25-4B275F?style=for-the-badge&logo=yara&logoColor=white" alt="YARA" />
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=DisaWdcba&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" height="180" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DisaWdcba&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B" width="95%" alt="Contribution Graph" />
 </div>
 
 ---
@@ -62,11 +52,11 @@
 
 | 项目 | 描述 | 语言 | Stars |
 |:---:|:---|:---:|:---:|
-| [**SimpleAIPainting**](https://github.com/DisaWdcba/SimpleAIPainting) | A simple and fast workspace for AIGC | `JavaScript` | ⭐ 14 |
-| [**r0idamcp-for-codex**](https://github.com/DisaWdcba/r0idamcp-for-codex) | A fast way to install r0idamcp through Codex | `Python` | ⭐ 6 |
-| [**yaraplus**](https://github.com/DisaWdcba/yaraplus) | 修改自官方 YARA 工具 | `YARA` | - |
-| [**WhitePatchGui**](https://github.com/DisaWdcba/WhitePatchGui) | 白文件 Patch 的自用版本 | `Python` | - |
-| [**an-simple-asynchronous-crawler**](https://github.com/DisaWdcba/an-simple-asynchronous-crawler) | Python 异步爬虫练手项目 | `Python` | - |
+| [**SimpleAIPainting**](https://github.com/DisaWdcba/SimpleAIPainting) | A simple and fast workspace for AIGC | `JavaScript` | [![Stars](https://img.shields.io/github/stars/DisaWdcba/SimpleAIPainting?style=flat&logo=github&color=FFD700&label=⭐)](https://github.com/DisaWdcba/SimpleAIPainting) |
+| [**r0idamcp-for-codex**](https://github.com/DisaWdcba/r0idamcp-for-codex) | A fast way to install r0idamcp through Codex | `Python` | [![Stars](https://img.shields.io/github/stars/DisaWdcba/r0idamcp-for-codex?style=flat&logo=github&color=FFD700&label=⭐)](https://github.com/DisaWdcba/r0idamcp-for-codex) |
+| [**yaraplus**](https://github.com/DisaWdcba/yaraplus) | 修改自官方 YARA 工具 | `YARA` | [![Stars](https://img.shields.io/github/stars/DisaWdcba/yaraplus?style=flat&logo=github&color=FFD700&label=⭐)](https://github.com/DisaWdcba/yaraplus) |
+| [**WhitePatchGui**](https://github.com/DisaWdcba/WhitePatchGui) | 白文件 Patch 的自用版本 | `Python` | [![Stars](https://img.shields.io/github/stars/DisaWdcba/WhitePatchGui?style=flat&logo=github&color=FFD700&label=⭐)](https://github.com/DisaWdcba/WhitePatchGui) |
+| [**an-simple-asynchronous-crawler**](https://github.com/DisaWdcba/an-simple-asynchronous-crawler) | Python 异步爬虫练手项目 | `Python` | [![Stars](https://img.shields.io/github/stars/DisaWdcba/an-simple-asynchronous-crawler?style=flat&logo=github&color=FFD700&label=⭐)](https://github.com/DisaWdcba/an-simple-asynchronous-crawler) |
 
 </div>
 
