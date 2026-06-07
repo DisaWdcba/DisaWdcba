@@ -1,3 +1,7 @@
+<!-- Matrix Code Rain Header -->
+<div align="center">
+  <img src="./assets/code-rain.svg" width="100%" alt="Matrix Code Rain" />
+</div>
 <!-- Hacker / Dark Profile Header -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2600&pause=700&color=39FF14&center=true&vCenter=true&width=720&lines=%3E+whoami;Disa+Tale+%7C+Reverse+Lover;%3E+Access+Granted.;Welcome+to+my+GitHub." alt="Typing SVG" />
